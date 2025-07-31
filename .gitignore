@@ -1,0 +1,15 @@
+# Laravel
+/backend-app/vendor/
+/backend-app/node_modules/
+/backend-app/storage/
+/backend-app/.env
+
+# React
+/frontend-app/node_modules/
+/frontend-app/build/
+
+# OS / IDE
+.DS_Store
+*.log
+*.lock
+.env
